@@ -109,7 +109,7 @@ const VehiclesSection = () => {
             style={{
               position: "fixed",
               inset: 0,
-              backgroundColor: "rgba(0,0,0,0.85)", // fundo escuro
+              backgroundColor: "rgba(0,0,0,0.85)",
               display: "flex",
               justifyContent: "center",
               alignItems: "center",
@@ -148,7 +148,7 @@ const VehiclesSection = () => {
                 style={{
                   width: "100%",
                   height: "100%",
-                  objectFit: "contain", // mantém proporção completa
+                  objectFit: "contain",
                   borderRadius: "8px",
                 }}
               />
